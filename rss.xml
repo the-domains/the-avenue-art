@@ -4,7 +4,7 @@
         <description><![CDATA[The Avenue Art]]></description>
         <link>https://thegrid.ai/the-avenue-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 07:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 07:59:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-avenue-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Art Supplies]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/70dcf4cc-09cf-44e8-9fa4-2d236a82a6d9.jpg</link>
             <guid isPermaLink="false">39093206-5cfd-495b-8ccd-a4736ffafe08</guid>
             <pubDate>Wed, 20 Jul 2016 07:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Testing acrylics and inks]]></title>
-            <description><![CDATA[<article><h1>Testing acrylics and inks</h1><p>Not meant to be a piece on the wall. But rather testing out how the different viscosities play together between acrylic paints and acrylic inks</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b3dd518d2b8e6d11430b90b262c814c/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe7dab820-e0eb-4233-baa3-468c3644ffa5.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7dab820-e0eb-4233-baa3-468c3644ffa5.jpg</link>
-            <guid isPermaLink="false">997a8a36-c7b2-4e9f-9da1-d6759cb8c4be</guid>
-            <pubDate>Wed, 20 Jul 2016 07:55:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
