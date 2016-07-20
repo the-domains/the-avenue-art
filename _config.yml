@@ -10,11 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.07526882
 color:
   saturation: 1
+  brandStrength: 0.5089605
   lightness: 1
-  brandStrength: 0.004017804
   rhythmicContrast: 1
+typography_spectrum: 0.07526882
 layout_spectrum: 0.6541219
 name: The Avenue Art
