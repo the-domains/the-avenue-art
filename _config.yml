@@ -12,9 +12,9 @@ collections:
       number: 10
 typography_spectrum: 0.07526882
 color:
-  saturation: 0
+  saturation: 1
+  lightness: 1
   brandStrength: 0.004017804
-  lightness: 0
-  rhythmicContrast: 0
-layout_spectrum: 0
+  rhythmicContrast: 1
+layout_spectrum: 0.6541219
 name: The Avenue Art
