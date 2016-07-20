@@ -1,8 +1,8 @@
-layout_spectrum: 0.5071685
-typography_spectrum: 0.09677419
+layout_spectrum: 0
 color:
-  saturation: 0.768993
+  saturation: 0
+  lightness: 0
   brandStrength: 0.004017804
-  lightness: 0.1577061
   rhythmicContrast: 0.4614142
+typography_spectrum: 0.07526882
 name: The Avenue Art
